@@ -1,0 +1,10 @@
+{
+  "name": "desafiotech",
+  "version": "1.0.0",
+  "description": "Desafio VueJS e NodeJS ",
+  "main": "index.js",
+  "author": "Geordani Machado",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
